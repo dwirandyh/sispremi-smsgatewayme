@@ -12,7 +12,7 @@
     <!-- END META SECTION -->
 
     <!-- CSS INCLUDE -->
-    <link rel="stylesheet" type="text/css" id="theme" href="http://127.0.0.1:8000/admin/css/theme-default.css"/>
+    <link rel="stylesheet" type="text/css" id="theme" href="{{ asset('admin/css/theme-default.css') }}"/>
     <!-- EOF CSS INCLUDE -->
 </head>
 <body>
